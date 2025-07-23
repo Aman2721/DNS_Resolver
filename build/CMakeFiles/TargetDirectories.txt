@@ -1,0 +1,3 @@
+/home/sneha/Desktop/dns_resolver_poco/build/CMakeFiles/dns_resolver.dir
+/home/sneha/Desktop/dns_resolver_poco/build/CMakeFiles/edit_cache.dir
+/home/sneha/Desktop/dns_resolver_poco/build/CMakeFiles/rebuild_cache.dir

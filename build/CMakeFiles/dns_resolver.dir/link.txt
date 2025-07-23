@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/dns_resolver.dir/main.cpp.o -o dns_resolver   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib /usr/local/lib/libPocoUtil.so.112 /usr/local/lib/libPocoNet.so.112 /usr/local/lib/libPocoXML.so.112 /usr/local/lib/libPocoJSON.so.112 /usr/local/lib/libPocoFoundation.so.112 -lpthread -ldl -lrt 
